@@ -1,6 +1,6 @@
 
-const toRna = (dnaStrand) => {
-    //type function here
-};
+class Clock {
+//type code here
+}
 
-module.exports = toRna
+module.exports = Clock
