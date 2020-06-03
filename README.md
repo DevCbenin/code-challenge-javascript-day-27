@@ -1,22 +1,11 @@
-# RNA Transcription
+# Clock
 
-Given a DNA strand, return its RNA complement (per RNA transcription).
+Implement a clock that handles times without dates.
 
-Both DNA and RNA strands are a sequence of nucleotides.
+You should be able to add and subtract minutes to it.
 
-The four nucleotides found in DNA are adenine (**A**), cytosine (**C**),
-guanine (**G**) and thymine (**T**).
+Two clocks that represent the same time should be equal to each other.
 
-The four nucleotides found in RNA are adenine (**A**), cytosine (**C**),
-guanine (**G**) and uracil (**U**).
-
-Given a DNA strand, its transcribed RNA strand is formed by replacing
-each nucleotide with its complement:
-
-* `G` -> `C`
-* `C` -> `G`
-* `T` -> `A`
-* `A` -> `U`
 
 ## Requirements
 
